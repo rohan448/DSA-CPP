@@ -1,2 +1,2 @@
 # DSA-CPP
-DSA IN CPP.
+DSA IN CPP language
